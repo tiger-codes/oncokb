@@ -33,7 +33,7 @@ cp -r core/src/main/resources/properties-EXAMPLE core/src/main/resources/propert
     
     
 ## Build the WAR file
-`mvn clean install -P public -DskipTests=true`
+`mvn clean && mvn package -P curate -DskipTests`
 
 The WAR file is under `/web/target/`
 
