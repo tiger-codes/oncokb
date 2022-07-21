@@ -15,7 +15,7 @@ The core of OncoKB Annotation service.
 Please confirm your running environment is:
 * **Java version: 8**
 * **MySQL version: 5.7.28**
-## MySQL db bump
+## MySQL db dump
 [oncokb_v3_11_db_dump.sql.gz](https://github.com/tiger-codes/oncokb/files/9160233/oncokb_v3_11_db_dump.sql.gz)
 
 
